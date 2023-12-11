@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">proyecto 6 TODO List</string>
+
+    <string name="welcome">Bienvenida</string>
+    <string name="categories">Categorías</string>
+    <string name="tasks">Tareas</string>
+
+    <string name="todo_title">Bienvenido, Aris</string>
+    <string name="todo_categories">Categorías:</string>
+    <string name="todo_tasks">Tareas:</string>
+
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_dialog_category_business">Negocios</string>
+    <string name="todo_dialog_category_other">Otros</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_add_task_button">Crear tarea</string>
+</resources>
